@@ -29,7 +29,7 @@
 12. Dupont/Jumper Cable Female to Female (seperlunya)
 13. cable 
 14. extra pinout soldering
-15. timah/patri�����������������������������������������������������������������������������������������������������������������������������������������������������
+15. timah/patri solder
 
 ## Code
 

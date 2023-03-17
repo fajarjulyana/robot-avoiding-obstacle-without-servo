@@ -36,5 +36,7 @@
 1. Tambahkan Library NewPing
 2. Tambahkan Library Adafruit1.0
 
-Berikut Codenya
-https://github.com/fajarjulyana/robot-avoiding-obstacle-without-servo/blob/0
+Berikut Codenya.
+https://github.com/fajarjulyana/robot-avoiding-obstacle-without-servo/blob/dd704ae040cf24c6a573e41a3ce46c7016c28cc0/src/code.cpp
+
+

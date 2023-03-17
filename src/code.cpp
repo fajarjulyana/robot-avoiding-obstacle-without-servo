@@ -2,7 +2,7 @@
   ===========================
     Robot Obstacle Avoiding
          (tanpa servo)
-        by Dena Gustiana
+        by Fajar Julyana
   ===========================
 */
 #include <AFmotor.h>        //library Adafruit motor driver . pasang manual

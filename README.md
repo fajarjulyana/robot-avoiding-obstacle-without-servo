@@ -31,6 +31,9 @@
 14. extra pinout soldering
 15. timah/patri solder
 
+## Wiring
+   Pengkabelannya
+
 ## Code
 
 1. Tambahkan Library NewPing

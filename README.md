@@ -33,7 +33,7 @@
 
 ## Wiring
    Pengkabelannya
-   <img src="wiring-robot.png"></img>
+   <img src="Wiring-Robot.png"></img>
 ## Code
 
 1. Tambahkan Library NewPing

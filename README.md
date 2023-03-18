@@ -22,7 +22,7 @@
 4. Rubber Wheels(4x)
 5. TT Gear Motor(4x)
 7. Ultrasonic Sensor (x1)
-8. Alkaline size AA Battery(8x)
+8. Alkaline 1.5v size AA Battery(8x)
 9. Battery Holder size AA (4x2)
 10. polycarbonate untuk chasis (seperlunya)
 11. 3m double tip (1x)

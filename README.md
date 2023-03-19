@@ -36,10 +36,10 @@
    <img src="wiring-robot.png"></img>
 ## Code
 
-1. Tambahkan Library NewPing
+1. Tambahkan Library
    [NewPing Library](https://downloads.arduino.cc/libraries/bitbucket.org/teckel12/NewPing-1.9.7.zip)
    <img src="NewPing.jpg" width="200" height="400"></img>
-2. Tambahkan Library Adafruit1.0
+2. Tambahkan Library
    [Adafruit Motor Shield v1 Library](https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_Motor_Shield_library-1.0.1.zip)
    <img src="Adafruit.jpg" width="200" height="400"></img>
 

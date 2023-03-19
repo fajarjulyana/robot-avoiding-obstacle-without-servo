@@ -46,4 +46,5 @@
 Berikut Codenya.
 https://github.com/fajarjulyana/robot-avoiding-obstacle-without-servo/blob/dd704ae040cf24c6a573e41a3ce46c7016c28cc0/src/code.cpp#L8-L17
 
-
+## Dokumentasi
+<img src="robot-avoiding-obstacle.jpg" width="200" height="400"></img>

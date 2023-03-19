@@ -38,10 +38,10 @@
 
 1. Tambahkan Library
    [NewPing Library](https://downloads.arduino.cc/libraries/bitbucket.org/teckel12/NewPing-1.9.7.zip)
-   <img src="NewPing.jpg" width="200" height="400"></img>
+  <br/> <img src="NewPing.jpg" width="200" height="400"></img>
 2. Tambahkan Library
    [Adafruit Motor Shield v1 Library](https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_Motor_Shield_library-1.0.1.zip)
-   <img src="Adafruit.jpg" width="200" height="400"></img>
+  <br/> <img src="Adafruit.jpg" width="200" height="400"></img>
 
 Berikut Codenya.
 https://github.com/fajarjulyana/robot-avoiding-obstacle-without-servo/blob/dd704ae040cf24c6a573e41a3ce46c7016c28cc0/src/code.cpp#L8-L17
